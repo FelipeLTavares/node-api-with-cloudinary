@@ -1,4 +1,4 @@
-# BASE API (02-2023)
+# BASE API
 
 ## What's this?
 
